@@ -1,0 +1,98 @@
+:root {
+	--light: #ffffff;
+	--hover: #FEEB97;
+	--c3: #4FB783;
+	--c2: #409D9B;
+	--c1: #034561;
+
+	--bg1: #0E2128;
+	--bg2: #08344c;
+	--bg3: #2977a1;
+
+	--bg: rgba(3,69,97,0.3);
+}
+
+/*@-webkit-keyframes gradiant {
+    0%{background-position:-30% 0%}
+    50%{background-position:51% 100%}
+    100%{background-position:50% 0%}
+}
+@-moz-keyframes gradiant {
+    0%{background-position:50% 0%}
+    50%{background-position:51% 100%}
+    100%{background-position:50% 0%}
+}
+@keyframes gradiant { 
+    0%{background-position:-30% 0%}
+    50%{background-position:51% 100%}
+    100%{background-position:50% 0%}
+}*/
+
+body {
+	background-color: var(--bg1);
+}
+
+.section {
+	background-color: var(--bg1);
+}
+
+.hero {
+	background-color: var(--bg1);
+}
+
+h1 {
+	color: var(--light);
+}
+
+a {
+	color: var(--c2);
+}
+
+a:hover {
+	color: var(--hover);
+}
+
+a.nav-item {
+	color: var(--c2);
+}
+
+a.nav-item:hover {
+	color: var(--hover);
+}
+
+hr {
+	margin: 0 0 1rem 0;
+}
+
+.nav-center {
+	margin-bottom: 1rem;
+}
+
+.container {
+	width: 100%;
+	max-width: initial;
+}
+
+.subtitle {
+    color: var(--light);
+}
+
+.title {
+    color: var(--c2);
+}
+
+.hero-body {
+	/*background: linear-gradient(180deg, var(--bg2), black, black, black, black, var(--bg2));
+	background-size: 900% 900%;
+
+	-webkit-animation: gradiant 30s ease infinite;
+	-moz-animation: gradiant 30s ease infinite;
+	animation: gradiant 30s ease infinite;*/
+}
+
+.logo {
+	height: 30px;
+    border: initial;
+    box-shadow: initial;
+    background: white;
+}
