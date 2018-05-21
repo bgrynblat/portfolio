@@ -1,9 +1,9 @@
 ---
 title: "NSW DoE"
-date: 2018-05-17T20:52:31+10:00
+date: 2018-05-01T20:52:31+10:00
 draft: false
-image: img/nsw_doe.jpg
+image: img/nsw_doe.png
 ---
 
-title: "NSW Department of Education - Cluster Planning"
+NSW Department of Education - Cluster Planning
 
