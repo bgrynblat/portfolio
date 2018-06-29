@@ -7,7 +7,14 @@ draft: false
 ### Software Engineering
 - **DevOps**
 - Full Stack Web
-- Android Native
+- Native Mobile Developer
+
+### Project Manager
+- AGILE methodology
+
+### Entrepreneur
+- Startup life !
+- Technical advisor
 
 <!-- 
 <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2000px-Node.js_logo.svg.png" placeholder="NodeJS"/>
