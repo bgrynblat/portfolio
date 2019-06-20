@@ -4,19 +4,22 @@ date: 2018-05-17T15:14:17+10:00
 draft: false
 ---
 
-### Software Engineering
+## Senior Solution architect @ On Pace Ltd
+## London 🇬🇧 | Sydney 🇦🇺 | France 🇫🇷
+
+### Software Engineering 🛠
 - **Solution Architect** & **DevOps**
 - Native Mobile Developer
 - Full Stack Web
 - Systems integrator
 - 10+ years of experience in software engineering
 
-### Project Management
+### Project Management 📈
 - Define technical specifications
 - AGILE methodology
-- 5+ years of experience in techincal project management
+- 5+ years of experience in technical project management
 
-### Entrepreneur
+### Entrepreneur 🚀
 - Freelancing
 - Help startups & SMEs getting up to speed on a technical perspective
 - Technical advisor
