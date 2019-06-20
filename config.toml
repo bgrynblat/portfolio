@@ -6,10 +6,10 @@ theme = "introduction"
 relativeurls = true
 
 
-[params]    
+[params]
     blogHead = "Blog" # Full name shows on blog post pages
     firstName = "Ben" # First name shows in introduction on main page
-    tagLine = "And this is my portfolio." # Appears after the introduction
+    tagLine = "I'm a senior Solutions Architect and DevOps engineer." # Appears after the introduction
     introHeight = "large" # Input either 'medium' or 'large' or 'fullheight'
     themeStyle = "dark" # Choose 'light' or 'dark'
     avatar = "img/profile.jpg" # Path to image in static folder eg. img/avatar.png, or comment out to remove

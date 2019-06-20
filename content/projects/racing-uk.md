@@ -1,11 +1,11 @@
 ---
 title: "Racing TV"
-date: 2020-01-28T18:57:50+02:00
+date: 2019-01-28T18:57:50+02:00
 draft: false
 image: "img/ruk.png"
 ---
 
-Customer: **Racing TK**<br>
+Customer: **Racing TV**<br>
 Agency: **Nurun Australia & On Pace Ltd**<br>
 Role: **DevOps / Android Native Developer**<br>
 When: January 2017 - Now<br>

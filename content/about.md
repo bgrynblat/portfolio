@@ -8,6 +8,7 @@ draft: false
 - **Solution Architect** & **DevOps**
 - Native Mobile Developer
 - Full Stack Web
+- 10+ years of experience in software engineering
 
 ### Project Managment
 - Define technical specifications
