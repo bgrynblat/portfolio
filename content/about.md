@@ -8,15 +8,17 @@ draft: false
 - **Solution Architect** & **DevOps**
 - Native Mobile Developer
 - Full Stack Web
+- Systems integrator
 - 10+ years of experience in software engineering
 
-### Project Managment
+### Project Management
 - Define technical specifications
 - AGILE methodology
+- 5+ years of experience in techincal project management
 
 ### Entrepreneur
 - Freelancing
-- Help startups & SMEs getting up to speed on a technical level
+- Help startups & SMEs getting up to speed on a technical perspective
 - Technical advisor
 
 <!-- 

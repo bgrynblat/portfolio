@@ -15,6 +15,6 @@ When: July 2018 - Now<br>
 - Build the Likely backend with **node js**.<br>
 - Build the Likely API with **node js**.<br>
 - Set up deployment and scaling process on **AWS**.<br>
+- **Product set to be released in 2019**<br>
 <br>
-Link: [https://www.racingtv.com](https://www.racingtv.com)<br>
 Tags: `software architect` `devops` `docker` `aws` `react native` `mobile`

@@ -10,7 +10,7 @@ Agency: **Nurun Australia & On Pace Ltd**<br>
 Role: **DevOps / Android Native Developer**<br>
 When: January 2017 - Now<br>
 <br>Tasks:<br>
-- Manage and automate the client's cloud infrastructure.
+- Manage and automate the client's cloud infrastructure.<br>
 - Build the Android native version of Racing UK app.<br>
 - Configure and deploy the new website on AWS using ***Docker, Elastic Container Service, S3, Route 53***.<br>
 - Set up continuous deployment pipelines with ***Codeship***.<br>
