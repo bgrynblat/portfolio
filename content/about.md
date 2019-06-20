@@ -5,15 +5,17 @@ draft: false
 ---
 
 ### Software Engineering
-- **DevOps**
-- Full Stack Web
+- **Solution Architect** & **DevOps**
 - Native Mobile Developer
+- Full Stack Web
 
-### Project Manager
+### Project Managment
+- Define technical specifications
 - AGILE methodology
 
 ### Entrepreneur
-- Startup life !
+- Freelancing
+- Help startups & SMEs getting up to speed on a technical level
 - Technical advisor
 
 <!-- 

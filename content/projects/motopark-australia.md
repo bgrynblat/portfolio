@@ -5,7 +5,7 @@ draft: false
 image: "img/motopark.png"
 ---
 
-Customer: **NSW Department of Education**<br>
+Customer: **Me**<br>
 Role: **Creator**<br>
 When: May 2018<br>
 Why: I was fed up with getting parking tickets when parking my motorbike in different locations around Sydney, so I decided to build this app which allows you to navigate to the free motorbike parkings around australia and add new ones if missing.<br>
@@ -16,4 +16,4 @@ Why: I was fed up with getting parking tickets when parking my motorbike in diff
 - Build static landing page with ***Hugo*** and deploy with ***Netlify***.<br>
 <br>
 Link: [motopark.com.au](https://www.motopark.com.au)<br>
-Tags: `devops` `nodejs` `react` `microsoft` `azure` `bash` `sql server`
+Tags: `react native` `ios` `android` `mobile` `nodejs` `heroku` `MongoDB` `netlify`
